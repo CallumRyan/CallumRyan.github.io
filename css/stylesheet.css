@@ -13,7 +13,7 @@ footer {
   text-align: center;
 }
 
-/* IDs */
+/* #IDs */
 
 #outer {
   max-width: 1020px;
@@ -32,7 +32,7 @@ footer {
   padding: 5px;
 }
 
-/* Classes */
+/* .Classes */
 
 .clearfloat {
   font-size: 0px;
